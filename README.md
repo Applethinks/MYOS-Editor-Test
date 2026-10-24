@@ -1,2 +1,5 @@
 # MYOS-Editor-Test
-Trying to make an editable site that don't need to change the codes if anyone have any idea related to my problem plss make an issue
+Building an editable website where users can update text and images without changing the source code. Have any ideas or suggestions? Please open a GitHub Issue!
+
+## Contact me if find a solution 
+https://www.instagram.com/the.editzx_verse?dlrf=NXhtbjJseDN6b2pq
